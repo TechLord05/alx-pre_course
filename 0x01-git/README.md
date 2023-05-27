@@ -1,1 +1,1 @@
-This is a training
+This is a SWE training
